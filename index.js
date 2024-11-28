@@ -7,5 +7,6 @@
 5. Proviamo a passare da terminale una parola come argomento. da mostrare dopo “Hello”. Dovremo quindi stampare “Hello parola_passata”
 */
 
-console.log("Hello World!")
+console.log("Hello World!");
+
 console.log(process.argv);
